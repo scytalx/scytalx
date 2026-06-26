@@ -1,10 +1,10 @@
-# ScytalX Project
+# Scytale
 
 > CS student building the architecture that will secure tomorrow's AI.
 
 ## What I'm building
 
-**Skytalx** — an AI-native OS built around a microkernel and a hardware cryptographic root of trust, preparing the era of autonomous agents.
+**Skytale** — an AI-native OS built around a microkernel and a hardware cryptographic root of trust, preparing the era of autonomous agents.
 
 ## Currently
 
